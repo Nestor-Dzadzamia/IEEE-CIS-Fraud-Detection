@@ -207,6 +207,7 @@ AdaBoost-ი ძალიან სტაბილური იყო — Train 
 - **CV AUC: 0.9454 ± 0.0020** — სტაბილური, დაბალი variance
 - **Kaggle Public Score: 0.8807**
 - **Kaggle Private Score: 0.9171**
+<img width="1151" height="188" alt="image" src="https://github.com/user-attachments/assets/022f90df-9b99-437e-87fb-5db30107c7a8" />
 
 ---
 
